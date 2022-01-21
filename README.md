@@ -1,3 +1,6 @@
+# Redux Tester New Version
+
+Redux Version Package Loop.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
